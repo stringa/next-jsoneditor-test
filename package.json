@@ -9,9 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "11.0.1",
+    "next": "^11.0.2-canary.27",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "svelte-jsoneditor": "^0.1.6"
   },
   "devDependencies": {
     "@types/react": "17.0.15",
